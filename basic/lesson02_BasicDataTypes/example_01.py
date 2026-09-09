@@ -1,5 +1,3 @@
-
-
 var_bool = True
 
-print(type(var_bool));
+print(type(var_bool))
