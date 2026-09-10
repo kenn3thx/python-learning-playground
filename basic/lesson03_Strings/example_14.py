@@ -3,4 +3,4 @@ channel = "Kenn3thx"
 
 sentence = greeting + " " + channel
 
-print(sentence)
+print(sentence) # Output: Hello, Everybody Kenn3thx
